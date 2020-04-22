@@ -1,5 +1,29 @@
 # learn-from-leetcode
 
+## 算法相关库
+* [awesome-leetcode](https://github.com/tangweikun/awesome-leetcode)
+* [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
+* [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+* [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation)
+* [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+* [Sorting_Visualization](https://github.com/ZQPei/Sorting_Visualization)
+* [Data Structures and Algorithms explained and implemented in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
+* [100 days](https://github.com/coells/100days)
+* [LeetCode Solutions](https://github.com/azl397985856/leetcode)
+* [LeetCode Problems' Solutions](https://github.com/haoel/leetcode)
+* [algorithms](https://github.com/nibnait/algorithms)
+* [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
+* [LeetCode Top 100 Liked Questions](https://github.com/mJackie/leetcode)
+* [LeetCode 面试必备](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
+* [interviews](https://github.com/kdn251/interviews/tree/master/leetcode)
+
+## 算法可视化网站
+* [algorithm-visualizer](https://algorithm-visualizer.org/)
+* [visualgo](https://visualgo.net/zh)
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+## My Study
+
 ### Tree
 * 相同的数 [Same Tree](/src/main/java/learn/from/leetcode/tree/SameTree.java) (Easy)
 * 对称二叉树 [Symmetric Binary Tree](/src/main/java/learn/from/leetcode/tree/SymmetricBinaryTree.java) (Easy)
