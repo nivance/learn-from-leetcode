@@ -37,6 +37,7 @@ public class LevelOrder {
 			}
 			count = queue.size();
 			list.add(subList);
+			// list.add(0, subList); // 这样可以倒着输出层序
 		}
 		return list;
 	}
