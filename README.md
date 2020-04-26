@@ -32,4 +32,5 @@
 * 将有序数组转换为二叉搜索树 [Sorted Array To BST](/src/main/java/learn/from/leetcode/tree/SortedArrayToBST.java) (Easy)
 * 平衡二叉树 [Balanced Binary Tree](/src/main/java/learn/from/leetcode/tree/IsBalancedTree.java) (Easy)
 * 二叉树的最小深度 [Min Depth](/src/main/java/learn/from/leetcode/tree/MinDepth.java) (Easy)
+* 二叉树的镜像 [Mirror Tree](/src/main/java/learn/from/leetcode/tree/MirrorTree.java) (Easy)
 * 二叉树的层序遍历 [Level Order](/src/main/java/learn/from/leetcode/tree/LevelOrder.java) (medium)

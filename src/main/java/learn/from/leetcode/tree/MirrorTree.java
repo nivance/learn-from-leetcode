@@ -4,11 +4,12 @@ import learn.from.leetcode.ds.TreeNode;
 
 /**
  * @author nivance
- * @from https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof
+ * @from https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof <br/>
+ *       https://leetcode-cn.com/problems/invert-binary-tree/
  * @desc 二叉树的镜像
  */
 public class MirrorTree {
-	
+
 	public TreeNode mirrorTree(TreeNode root) {
 		if (root != null) {
 			TreeNode tmp = root.left;
