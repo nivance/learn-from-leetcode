@@ -36,5 +36,6 @@
 * 路径总和 [Path Sum](/src/main/java/learn/from/leetcode/tree/PathSum.java) (Easy)
 * 二叉搜索树的最近公共祖先 [BST Lowest Common Ancestor](/src/main/java/learn/from/leetcode/tree/LowestCommonAncestorBST.java) (Easy)
 * 二叉树的所有路径 [Binary Tree Paths](/src/main/java/learn/from/leetcode/tree/BinaryTreePaths.java) (Easy)
+* 从根到叶的二进制数之和 [Sum Root To Leaf](/src/main/java/learn/from/leetcode/tree/SumRootToLeaf.java) (Easy)
 * 二叉树的最近公共祖先 [Lowest Common Ancestor](/src/main/java/learn/from/leetcode/tree/LowestCommonAncestor.java) (medium)
 * 二叉树的层序遍历 [Level Order](/src/main/java/learn/from/leetcode/tree/LevelOrder.java) (medium)
