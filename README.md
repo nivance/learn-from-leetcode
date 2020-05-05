@@ -42,3 +42,4 @@
 * 二叉搜索树的第k大节点 [Kth Largest](/src/main/java/learn/from/leetcode/tree/KthLargest.java) (Easy)
 * 二叉树的最近公共祖先 [Lowest Common Ancestor](/src/main/java/learn/from/leetcode/tree/LowestCommonAncestor.java) (medium)
 * 二叉树的层序遍历 [Level Order](/src/main/java/learn/from/leetcode/tree/LevelOrder.java) (medium)
+* 验证二叉搜索树 [Is Valid BST](/src/main/java/learn/from/leetcode/tree/IsValidBST.java) (medium)
