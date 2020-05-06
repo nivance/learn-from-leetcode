@@ -16,6 +16,7 @@
 * [LeetCode Top 100 Liked Questions](https://github.com/mJackie/leetcode)
 * [LeetCode 面试必备](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
 * [interviews](https://github.com/kdn251/interviews/tree/master/leetcode)
+* [The Algorithms](https://github.com/TheAlgorithms)
 
 ## 算法可视化网站
 * [algorithm-visualizer](https://algorithm-visualizer.org/)
