@@ -49,3 +49,4 @@
 * 在排序数组中查找元素的第一个和最后一个位置 [Search Range](/src/main/java/learn/from/leetcode/array/SearchRange.java) (Easy)
 * 搜索二维矩阵 [Search Matrix](/src/main/java/learn/from/leetcode/array/SearchMatrix.java) (Easy)
 * 螺旋矩阵 [Spiral Order](/src/main/java/learn/from/leetcode/array/SpiralOrder.java) (Easy)
+* 主要元素 [Majority Element](/src/main/java/learn/from/leetcode/array/MajorityElement.java) (Easy)
