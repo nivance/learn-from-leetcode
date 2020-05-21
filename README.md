@@ -1,5 +1,7 @@
 # learn-from-leetcode
 
+![](img/bigo.jpg)
+
 ## 算法相关库
 * [awesome-leetcode](https://github.com/tangweikun/awesome-leetcode)
 * [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
@@ -22,6 +24,7 @@
 * [algorithm-visualizer](https://algorithm-visualizer.org/)
 * [visualgo](https://visualgo.net/zh)
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Big-O Complexity Chart Sheet](https://www.bigocheatsheet.com/)
 
 ## My Study
 
