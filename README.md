@@ -47,6 +47,7 @@
 * 二叉树的最近公共祖先 [Lowest Common Ancestor](/src/main/java/learn/from/leetcode/tree/LowestCommonAncestor.java) (medium)
 * 二叉树的层序遍历 [Level Order](/src/main/java/learn/from/leetcode/tree/LevelOrder.java) (medium)
 * 验证二叉搜索树 [Is Valid BST](/src/main/java/learn/from/leetcode/tree/IsValidBST.java) (medium)
+* 从前序与中序遍历序列构造二叉树 [Build Tree](/src/main/java/learn/from/leetcode/tree/BuildTree.java) (medium)
 
 ## Array
 * 在排序数组中查找元素的第一个和最后一个位置 [Search Range](/src/main/java/learn/from/leetcode/array/SearchRange.java) (Easy)
