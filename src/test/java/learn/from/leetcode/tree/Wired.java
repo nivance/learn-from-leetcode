@@ -5,6 +5,8 @@ import java.util.HashMap;
 public class Wired {
 
 	public static void main(String[] args) {
+		System.out.println(compressString("aabcccccaa"));
+		
 		float a = 0.125f;
 		double b = 0.125d;
 		System.out.println((a - b) == 0.0);
@@ -57,5 +59,25 @@ public class Wired {
 	static <String, T, Alibaba> String get(String string, T t) { 
 		return string; 
 	} 
+	
+	public static String compressString(String s) {
+		StringBuilder sb = new StringBuilder();
+		char[] ca = s.toCharArray();
+		char t = ca[0];
+		int count = 1;
+		boolean origin = true;
+		for(int i = 1; i < s.length(); i++) {
+			if (t == ca[i]) {
+				count++;
+				origin = false;
+			} else {
+				sb.append(t).append(count);
+				count = 1;
+				t = ca[i];
+			}
+		}
+		sb.append(t).append(count);
+		return origin ? s : sb.toString();
+    }
 
 }

@@ -54,6 +54,7 @@
 * 搜索二维矩阵 [Search Matrix](/src/main/java/learn/from/leetcode/array/SearchMatrix.java) (Easy)
 * 螺旋矩阵 [Spiral Order](/src/main/java/learn/from/leetcode/array/SpiralOrder.java) (Easy)
 * 主要元素 [Majority Element](/src/main/java/learn/from/leetcode/array/MajorityElement.java) (Easy)
+* 寻找重复数 [Find Duplicate](/src/main/java/learn/from/leetcode/array/FindDuplicate.java) (medium)
 
 ### 链表
 * 反转一个单链表 [Reverse List](/src/main/java/learn/from/leetcode/linkedlist/ReverseList.java) (Easy)
