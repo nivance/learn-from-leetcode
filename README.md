@@ -60,10 +60,11 @@
 
 ### 链表
 * 反转一个单链表 [Reverse List](/src/main/java/learn/from/leetcode/linkedlist/ReverseList.java) (Easy)
+* 找两个单链表相交的起始节点 [Get Intersection Node](/src/main/java/learn/from/leetcode/linkedlist/IntersectionNode.java) (Easy)
 * K个一组翻转链表 [Reverse K Group](/src/main/java/learn/from/leetcode/linkedlist/ReverseKGroup.java) (Hard)
-* 找两个单链表相交的起始节点 [Get Intersection Node](/src/main/java/learn/from/leetcode/linkedlist/IntersectionNode.java)
 
 ### 字符串
 * 验证回文字符串 Ⅱ [Valid Palindrome](/src/main/java/learn/from/leetcode/string/ValidPalindrome.java) (Easy)
+* 判断子序列[Is Subsequence](/src/main/java/learn/from/leetcode/string/IsSubsequence.java) (Easy)
 * 最长回文子串[Longest Palindrome](/src/main/java/learn/from/leetcode/string/LongestPalindrome.java) (medium)
 * 字符串解码[Decode String](/src/main/java/learn/from/leetcode/string/DecodeString.java) (medium)
