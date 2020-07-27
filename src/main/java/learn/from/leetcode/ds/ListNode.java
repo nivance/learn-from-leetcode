@@ -1,5 +1,8 @@
 package learn.from.leetcode.ds;
 
+/**
+ *	节点
+ */
 public class ListNode {
 	
 	public int val;
